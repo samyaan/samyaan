@@ -1,1 +1,2 @@
-[![Header](https://raw.githubusercontent.com/samyaan/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<samyaan>&theme=<THEME_NAME>" />
