@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently in 3rd year
-- 🌱 I’m currently learning Mobile App Development
-- 📚 I'm currently studying Computer Science & Engineering
+- 🔭 I’m currently working as a software and frontend developer at StayPe
 - 📫 How to reach me: 
 	[E-mail](mailto://satwiksamyaan@gmail.com) , [LinkedIn](https://www.linkedin.com/in/satwik-samyaan-5222651a6//) , 
 
